@@ -4,5 +4,5 @@
 
 Finish some little algorithm projects on the Princeton University's Coursera, and this is what I have done:
 
-1. Percolation
-
+- [x] [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
+- [x] [Double-ended queue and Randomized Queue](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)

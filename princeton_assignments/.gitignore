@@ -6,6 +6,5 @@
 *.iml
 out
 gen
-percolation/percolation.zip
-percolation/Percolation.class
-percolation/PercolationStats.class
+*.zip
+*.class
