@@ -12,7 +12,7 @@ Finish some little algorithm projects on the Princeton University's Coursera, an
 
   Deque(doubly circular linked-list based): To simplify the boundary handling, a  sentinel node is used.
 
-  Randomized Queue(singular linked-list based): Save much memory, but cannot maintain the uniform randomness!
+  Randomized Queue(singular linked-list based): Save much memory, but cannot maintain the uniform randomness! Use resizing array instead!
 
 - [x] [Collinear](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)  100/100
 
