@@ -1,6 +1,6 @@
 # This is my Algorithm repository
 
-## First Step
+## Part I
 
 Finish some little algorithm projects on the Princeton University's Coursera, and this is what I have done:
 
@@ -21,3 +21,10 @@ Finish some little algorithm projects on the Princeton University's Coursera, an
   FastCollinearPoints: Use Sorting algorithm to sort the points according to their slope with a point,  the same group must be in the same line segment.
 
   
+
+## Part II
+
+Implement some algorithms:
+
+- [x] Merge sort: Implement the in-place merge sort, including the top-down version(化整为零的思想) and the bottom-up version(循序渐进的思想). One disadvantage of the merge sort is that the auxiliary space is proportional to the array size N.
+
