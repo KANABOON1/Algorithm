@@ -27,4 +27,6 @@ Finish some little algorithm projects on the Princeton University's Coursera, an
 Implement some algorithms:
 
 - [x] Merge sort: Implement the in-place merge sort, including the top-down version(化整为零的思想) and the bottom-up version(循序渐进的思想). One disadvantage of the merge sort is that the auxiliary space is proportional to the array size N.
+- [x] Basic sorts: Implement the selection sort(in-place, O(N^2), unstable), bubble sort(in-place, O(N^2), stable), and insertion sort(in-place, O(N^2), unstable). 
 
+​       
